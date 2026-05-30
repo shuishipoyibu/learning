@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+beginner_flashatt/__init__.py
+beginner_flashatt/flashattention.cu
+beginner_flashatt/mini_model.py
+beginner_flashatt.egg-info/PKG-INFO
+beginner_flashatt.egg-info/SOURCES.txt
+beginner_flashatt.egg-info/dependency_links.txt
+beginner_flashatt.egg-info/top_level.txt
+tests/test_correctness.py
+tests/test_input_validation.py
+tests/test_mini_model.py

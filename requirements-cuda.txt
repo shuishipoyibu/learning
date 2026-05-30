@@ -1,0 +1,6 @@
+torch
+pytest
+ninja
+packaging
+setuptools
+wheel
